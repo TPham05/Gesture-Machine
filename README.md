@@ -50,8 +50,77 @@ Originally inspired by JARVIS from the Iron Man movies, this project has evolved
 
 ---
 
-## 🤝 Contributions & Feedback
+---
 
-Suggestions, bug reports, and pull requests are always welcome! Feel free to fork the project or open an issue.
+## ✋ Gesture Control Reference
+
+The following hand signs are recognized in real-time and mapped to specific system actions. This allows the user to control media playback, navigation, and volume without touching a keyboard or mouse.
 
 ---
+
+### ✅ `ok`
+- **Gesture**: Thumb and index finger touch to form an “O”; all other fingers extended.
+- **Action**: Presses the `Enter` key.
+
+---
+
+### ⬆️ `scroll_up`
+- **Gesture**: Index and middle fingers extended and close together, pointing upward; thumb not extended.
+- **Action**: Scrolls the screen **upward**.
+
+---
+
+### ⬇️ `scroll_down`
+- **Gesture**: Index and middle fingers extended and close together, pointing downward; thumb not extended.
+- **Action**: Scrolls the screen **downward**.
+
+---
+
+### 🔊 `volume_up`
+- **Gesture**: Index finger extended; all other fingers folded.
+- **Action**: Increases the system volume.
+
+---
+
+### 🔉 `volume_down`
+- **Gesture**: Index finger points downward; middle, ring, and pinky fingers extended.
+- **Action**: Decreases the system volume.
+
+---
+
+### 🎵 `play_music`
+- **Gesture**: “Rock on” sign – index and pinky fingers extended; middle and ring fingers folded.
+- **Action**: Plays or resumes music in Spotify.
+
+---
+
+### ⏮️ `previous_song`
+- **Gesture**: Index and middle fingers extended and spread apart; ring finger folded.
+- **Action**: Skips to the **previous** track in Spotify.
+
+---
+
+### ⏭️ `next_song`
+- **Gesture**: Index, middle, and ring fingers extended and spread apart.
+- **Action**: Skips to the **next** track in Spotify.
+
+---
+
+### 🌐 `y_sign`
+- **Gesture**: Thumb and pinky extended wide; all other fingers folded.
+- **Action**: Launches the default browser (e.g., Chrome).
+
+---
+
+### 👈 `l_sign`
+- **Gesture**: Index finger extended upward, thumb extended sideways (forming an “L” shape); other fingers folded.
+- **Action**: Presses `Backspace`.
+
+---
+
+### 🫖 `tea`
+- **Gesture**: Pinky extended; all other fingers folded (mimicking tea-drinking etiquette).
+- **Action**: Opens Spotify.
+
+---
+
